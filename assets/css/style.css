@@ -1,13 +1,16 @@
+/* Universal selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Element selector for body element */
 body {
     background-color: #d9dcd6;
 }
 
+/* Element selector for header element */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +18,18 @@ header {
     color: #ffffff;
 }
 
+/* Selects the h1 elements inside the header element */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Selects the .seo class inside the h1 element of the header element */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Selects the nav elements inside the header element */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +38,29 @@ header nav {
     font-size: 20px;
 }
 
+/* Selects the ul elements inside the nav element of the header element */
 header nav ul {
     list-style-type: none;
 }
 
+/* Selects the li elements inside the ul element of the nav element of the header element */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Element selector for the anchor element */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Element selector for the paragraph element */
 p {
     font-size: 16px;
 }
 
+/* Class selector for the hero class */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +70,26 @@ p {
     background-position: center;
 }
 
+/* Class selector for the float-left class */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Class selector for the float-right class */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Class selector for the content class */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Class selector for the benefits class */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,22 +101,26 @@ p {
     background-color: #2589bd;
 }
 
+/* Selects the section elements inside the benefits class */
 .benefits section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Selects the h3 elements inside the benefits class */
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Selects the img elements inside the benefits class */
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Selects the section elements inside the content class */
 .content section {
     margin-bottom: 20px;
     padding: 50px;
@@ -111,15 +130,18 @@ p {
     color: #ffffff;
 }
 
+/* Selects the img elements inside the content class */
 .content img {
     max-height: 200px;
 }
 
+/* Selects the h2 elements inside the content class */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Element selector for the footer element */
 footer {
     padding: 30px;
     clear: both;
@@ -127,6 +149,7 @@ footer {
     text-align: center;
 }
 
+/* Selects the h2 elements inside the footer element */
 footer h2 {
     font-size: 20px;
 }
