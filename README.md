@@ -11,7 +11,7 @@ You can clone this respository on GitHub (https://github.com/averyjmiller/bootca
 ## Usage
 You can use this webpage as an example of what semantically written and structured HTML and CSS looks like.
 
-You can view this webpage at {link}
+You can view this webpage at https://averyjmiller.github.io/bootcamp-challenge-01/.
 ## Credits
 N/A
 ## License
