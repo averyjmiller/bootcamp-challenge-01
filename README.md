@@ -1,7 +1,7 @@
 # Boot Camp Challenge 01
 
 ## Description
-The purpose of this Boot Camp Challenge 01 webpage was to help students practice the semantic rules of HTML in order to make a webpage
+The purpose of this Boot Camp Challenge 01 webpage is to help students practice the semantic rules of HTML in order to make a webpage
 that is accessible and easy to understand. Students are given a 'User Story' with an 'Acceptance Criteria' that they must adhere to in
 order to complete the project. This project simulates an 'on-the-job ticket' or 'feature request' scenario that web developers commonly
 encounter.
