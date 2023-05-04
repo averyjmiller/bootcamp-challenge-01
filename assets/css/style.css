@@ -89,6 +89,27 @@ p {
     margin-left: 20px;
 }
 
+/* Selects the section elements inside the content class */
+.content section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Selects the img elements inside the content class */
+.content img {
+    max-height: 200px;
+}
+
+/* Selects the h2 elements inside the content class */
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 /* Class selector for the benefits class */
 .benefits {
     margin-right: 20px;
@@ -118,27 +139,6 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-/* Selects the section elements inside the content class */
-.content section {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* Selects the img elements inside the content class */
-.content img {
-    max-height: 200px;
-}
-
-/* Selects the h2 elements inside the content class */
-.content h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 /* Element selector for the footer element */
