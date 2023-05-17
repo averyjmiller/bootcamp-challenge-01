@@ -1,4 +1,4 @@
-# Boot Camp Challenge 01
+# HTML Semantics Challenge
 
 ## Description
 The purpose of this Boot Camp Challenge 01 webpage is to help students practice the semantic rules of HTML in order to make a webpage
